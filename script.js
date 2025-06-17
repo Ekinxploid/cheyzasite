@@ -1,7 +1,7 @@
 function refreshDiscordProfile() {
     const discordProfileImg = document.querySelector('.discord-profile img');
     const timestamp = new Date().getTime();
-    discordProfileImg.src = ````https://discord.com/channels/@me/1384200306736238632/1384605006652510289```&t=${timestamp}&idleMessage=</> Cheyza Özeldir. </>`;
+    discordProfileImg.src = https://lanyard.cnrad.dev/api/1071158799706103859?showDisplayName=true&t=${timestamp}&idleMessage=</> Cheyza Özeldir. </>`;
 }
 
 
